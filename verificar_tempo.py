@@ -4,8 +4,7 @@ import json
 
 hora_inicio = dt.datetime.now()
 hora_igual = dt.datetime.now()
-var1 = "cachorro"
-var2 = "cachorro"
+
 
 def comparar(var1, var2):
     if var1 == var2:
